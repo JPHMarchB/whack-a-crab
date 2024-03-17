@@ -1,5 +1,5 @@
 # whack-a-crab
-Welcome to Whack-a-Crab! This is a classic arcade game where you have to hit the crabs as they pop up from their holes. A fun spin-off of the ever-popular Whack-a-Crab.
+Welcome to Whack-a-Crab! This is a fun arcade game where you have to hit the crabs as they pop up from their holes. A fun spin-off of the ever-popular Whack-a-Crab.
 
 ## Introduction
 Whack-a-Crab is a simple browser-based game built using vanilla JavaScript, HTML, and CSS. It provides an entertaining experience where the player has to react quickly to hit the crabs before they disappear back into their holes. The game keeps track of the player's score and displays it in real-time.
