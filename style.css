@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
     font-size: 10px;
-    background: #0095ff;
+    background: #ffc600;
 }
 
 *, *:before, *:after {
@@ -22,7 +22,7 @@ h1 {
 }
 
 .score {
-    background: rgba(255,255,255,0.3);
+    background: rgba(255,255,255,0.2);
     padding: 0 3rem;
     line-height: 1;
     border-radius: 1rem;
@@ -55,7 +55,7 @@ h1 {
 }
 
 .mole {
-    background: url('/images/crab-svgrepo-com.svg') bottom center no-repeat;
+    background: url('images/crab-svgrepo-com.svg') bottom center no-repeat;
     background-size: 60%;
     position: absolute;
     top: 100%;
