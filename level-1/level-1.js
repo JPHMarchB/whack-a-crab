@@ -1,6 +1,6 @@
-const holes = document.querySelectorAll('.hole')
+const holes = document.querySelectorAll('.hole-level-1')
 const scoreBoard = document.querySelector('.score')
-const moles = document.querySelectorAll('.mole')
+const moles = document.querySelectorAll('.crab')
 let lastHole;
 let timeUp = false
 let score = 0
